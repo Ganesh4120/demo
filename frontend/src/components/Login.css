@@ -1,0 +1,21 @@
+/* Login.css */
+.loginContainer {
+    text-align: center;
+    padding: 20px;
+    color: red;
+  }
+  
+  .loginForm {
+    margin: 0 auto;
+    max-width: 300px;
+  }
+  
+  .loginInput {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  .loginButton {
+    width: 100%;
+  }
+  
